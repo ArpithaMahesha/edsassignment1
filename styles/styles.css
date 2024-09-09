@@ -12,11 +12,11 @@
 
 :root {
   /* colors */
-  --background-color: white;
+  --background-color: #c6f1ea;
   --light-color: #f8f8f8;
   --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
+  --text-color: #626161;
+  --link-color: #070797;
   --link-hover-color: #1d3ecf;
 
   /* fonts */
@@ -254,4 +254,9 @@ main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
+}
+
+.default-content-wrapper a{
+  color:#2d2e01;
+  
 }
