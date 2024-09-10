@@ -4,8 +4,8 @@ div.section.custom-block-container{
 }
 
 div.section.separate-section .default-content-wrapper{
-  background-color: rgb(208, 207, 207);
-  color: rgb(27, 7, 7);
+  background-color: #d0cfcf;
+  color: #1b0707;
   height: 50vh;
   display: flex;
   align-items: center;
