@@ -2,11 +2,3 @@ div.section.custom-block-container{
   background-color: blue;
   color: white;
 }
-
-div.section.separate-section .default-content-wrapper{
-  background-color: #d0cfcf;
-  color: #1b0707;
-  height: 50vh;
-  display: flex;
-  align-items: center;
-}
