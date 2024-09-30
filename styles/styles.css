@@ -10,13 +10,13 @@
  * governing permissions and limitations under the License.
  */
 
-:root {
+ :root {
   /* colors */
-  --background-color: #c5f4ec;
+  --background-color: #ffff;
   --light-color: #f8f8f8;
   --dark-color: #505050;
-  --text-color: #626161;
-  --link-color: #070797;
+  --text-color: black;
+  --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
   /* fonts */
@@ -254,9 +254,4 @@ main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
-}
-
-.default-content-wrapper a{
-  color:#2d2e01;
-  
 }
